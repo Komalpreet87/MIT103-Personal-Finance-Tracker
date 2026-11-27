@@ -33,15 +33,19 @@ category-wise totals.
 
 ### Admin
 
-The Admin can: - Add transactions. - Display transactions. - Search
-transactions. - Delete transactions.
+The Admin can:
+- Add transactions.
+- Display transactions.
+- Search transactions.
+- Delete transactions.
 
 ### Viewer
 
-The Viewer can: - Display transactions. - Search transactions.
+The Viewer can:
+- Display transactions.
+- Search transactions.
 
-The Viewer cannot add or delete transactions. The program checks
-permissions in the protected operations as well as in the menu.
+The Viewer cannot add or delete transactions. The program checks permissions in the protected operations as well as in the menu.
 
 ## 4. Project files
 
