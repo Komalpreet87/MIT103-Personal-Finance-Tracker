@@ -138,3 +138,15 @@ data is needed after a runtime reset.
 This project was prepared for MIT103 Assessment 3 -- Software
 Development Project, Phase 2. The sample transactions are fictional and
 are provided for learning and testing.
+
+## 11. Testing
+
+The program was checked using different test cases:
+
+- Admin login and transaction management.
+- Viewer login and access restrictions.
+- Searching for a transaction by ID.
+- Handling an invalid menu choice.
+- Checking transaction deletion when an ID is not found.
+
+These tests helped check the main functions and user permissions of the tracker.
